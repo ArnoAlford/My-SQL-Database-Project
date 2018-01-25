@@ -3,8 +3,7 @@ The goal of the project was to make a fully working Oracle transaction database 
 
 
 
-First we'll generate a sales order by inputing the Customer's ID,
+First we'll generate a sales order by inputing the Customer's ID, <img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Order.png">
 the product they want to buy, how much they want to buy 
 and what warehouse they will order from. 
-The output from order.sql:
-<img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Order.png">
+The output from order.sql: 
