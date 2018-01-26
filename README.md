@@ -17,7 +17,7 @@ to do is ship the order. This is where shipped.sql is used. The sales order numb
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img align="left" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Aging.png">Now we want to generate an aging report to see which orders have perhaps been open for a bit too long. To do this we allow the user to enter a number, and have aging.sql query for orders that have been open for past that length.
 <br>The output from aging.sql:
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/SalesReport.png">
 Finally we want to generate a sales report to see how much of each product we sold each month.
 <br>The output from salesreport.sql:
