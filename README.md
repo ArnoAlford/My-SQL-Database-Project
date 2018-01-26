@@ -4,7 +4,7 @@ The goal of this project was to create a fully working Oracle transaction databa
 
 First we'll generate a sales order by running order.sql and<img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Order.png">
 <br>
-inputing the Customer's ID,the product they want to buy,
+inputing the Customer's ID, the product they want to buy, 
 the quantity they want to buy and what warehouse they will order from. 
 The output from order.sql:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -14,3 +14,6 @@ to do is ship the order. This is where shipped.sql is used. The sales order numb
 <img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Query.png">Next we have a query that shows an easy-to-read 
 <br>view of the the selected sales order.
 <br>The output from query.sql:
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Aging.png">Now we want to generate an aging report to see which orders have perhaps been open for a bit too long. To do this we allow the user to enter a number, and have aging.sql query for orders that have been open for past that length.
+<br>The output from aging.sql:
