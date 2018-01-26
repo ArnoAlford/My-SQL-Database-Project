@@ -3,11 +3,7 @@ The goal of this project was to create a fully working Oracle transaction databa
 <br><br><br><br>
 
 First we'll generate a sales order by running order.sql and<img align="right" src="https://github.com/ArnoAlford/My-SQL-Database-Project/blob/master/Order.png">
-<br>
-inputing the Customer's ID,the product they want to buy,  
-<br>
+inputing the Customer's ID,the product they want to buy,
 the quantity they want to buy and what warehouse they will order from. 
-<br>
-The output from order.sql: 
-<br>
+The output from order.sql:
 Next we'll update the sales order
